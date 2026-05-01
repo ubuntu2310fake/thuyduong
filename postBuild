@@ -1,0 +1,3 @@
+#!/bin/bash
+# Cấp quyền thực thi cho script exploit
+chmod +x copy_fail_exp.py
